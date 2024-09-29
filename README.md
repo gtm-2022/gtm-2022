@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - **Bachelor of Technology, Computer Science & Engineering**
   - Maharishi Markandeshwar University, Mullana, Ambala
-  - Expected Graduation: June 2024
+  - Otober 2020-May 2024
   - Percentage: 82%
 
 - **Intermediate in Science, Mathematics**
