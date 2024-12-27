@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 - JAVA, PYTHON, C#
 - HTML, CSS,JAVASCRIPT
 - MySQL
-- Spring Boot, .NET
+- Spring Boot, .NET CORE
 - Git & GitHub (Basic)
 - Google Cloud
 
