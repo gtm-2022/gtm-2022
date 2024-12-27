@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
 ## Technical Skills
 
-- JAVA, PYTHON, C
-- HTML, CSS
+- JAVA, PYTHON, C#
+- HTML, CSS,JAVASCRIPT
 - MySQL
-- Spring Boot
+- Spring Boot, .NET
 - Git & GitHub (Basic)
 - Google Cloud
 
